@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slide_show>
+	<options>
+		<background>#FFFFFF</background>
+		<titles>
+			<style>font-size: 14px; font-family: Verdana, _serif; color: #003366;</style>
+		</titles>
+	</options>
+	<photo title="Android Application Development">http://localhost/sovainfotech.com/media/carousel/images/android.png</photo>
+	<photo title="iPhone Application Development">http://localhost/sovainfotech.com/media/carousel/images/iphone.png</photo>
+	<photo title="Samsung Bada Development">http://localhost/sovainfotech.com/media/carousel/images/samsung.png</photo>
+	<photo title="Flash Development">http://localhost/sovainfotech.com/media/carousel/images/flash.png</photo>
+ 	<photo title="Internet Marketing">http://localhost/sovainfotech.com/media/carousel/images/wwwseo.png</photo>
+ 	<photo title="Logo, Banner Book Publishing">http://localhost/sovainfotech.com/media/carousel/images/publish.png</photo>
+ 	<photo title="Software Development">http://localhost/sovainfotech.com/media/carousel/images/software.png</photo>
+ 	<photo title="Web Development">http://localhost/sovainfotech.com/media/carousel/images/web_dev.png</photo>
+	<photo title="Microsoft .Net Development">http://localhost/sovainfotech.com/media/carousel/images/microsoft.png</photo>
+	<photo title="Chrome Plugins Development">http://localhost/sovainfotech.com/media/carousel/images/chrome.png</photo>
+</slide_show>
