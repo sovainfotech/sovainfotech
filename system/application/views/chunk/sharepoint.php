@@ -19,7 +19,7 @@ $(function() {
       <p>If you want your  people to work together easily then Microsoft SharePoint 2010 is the answer. SharePoint  2010 can help your people in:<br />
         <br />
         <strong>1.</strong> Setting up websites for sharing information<br />
-        <strong>2.</strong> Managing documents from start to en<br />
+        <strong>2.</strong> Managing documents from start to end.<br />
         <strong>3.</strong> Publishing reports for helping everyone to make better decisions</p>
     </div></td>
   </tr>
