@@ -294,7 +294,7 @@
             <!--End Body Right Part-->
          </div>
          <!--Body Finish-->
-         <div class="footer-dev-work" align="center"><img src="<?=base_url()?>media/images/logo_banner.jpg" border="0" usemap="#Map" alt="Service Image" />
+         <div class="footer-dev-work" align="center"><img src="<?=base_url()?>media/images/logo_banner.jpg" rel="nofollow" border="0" usemap="#Map" alt="Service Image" />
          <map name="Map" id="Map">
         	<area shape="rect" coords="5,3,93,41" href="http://drupal.org" rel="nofollow" title="Drupal" alt="Drupal" style="border:#CCCCCC solid 1px;" />
             <area shape="rect" coords="102,3,192,42" href="http://cakephp.org/" title="Cake PHP" alt="Cake PHP" rel="nofollow"/>
