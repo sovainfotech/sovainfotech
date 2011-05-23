@@ -264,39 +264,32 @@
                 <div class="box_area">
                     <div class="box_area_header">Follow us in Twitter</div>
                     <div class="box_area_txt_area">
-                        <a href="http://twitter.com/sovainfotech" target="_blank"><img src="<?=base_url()?>media/images/twitter.png" alt="Twitter" title="Twitter" border="0" style="margin-left:7px;"/></a>
+                        <a href="http://twitter.com/sovainfotech" target="_blank"><img src="<?=base_url()?>media/images/twitter.png" alt="Twitter" title="Twitter" border="0" style="margin:10px 0px 10px 7px;"/></a>
                     </div>
                     <div class="box_area_buttom"></div>
                 </div>
                 <div class="box_area">
                 	<div class="box_area_header">Follow in Facebook</div>
                     <div class="box_area_txt_area">
-                        <a href="http://www.facebook.com/pages/Sova-Infotech/177758612265902?v=wall" target="_blank"><img src="<?=base_url()?>media/images/1296799290_facebook-large_blue.png" alt="Facebook" title="Facebook" border="0" style="position:relative; left:12px;"/></a>
+                        <a href="http://www.facebook.com/pages/Sova-Infotech/177758612265902?v=wall" target="_blank"><img src="<?=base_url()?>media/images/1296799290_facebook-large_blue.png" alt="Facebook" title="Facebook" border="0" style="position:relative; left:12px; margin:10px 0px 6px 0px;"/></a>
                     </div>
                     <div class="box_area_buttom"></div>
                 </div>
                 <div class="box_area">
                 	<div class="box_area_header">Follow in Delicious</div>
                     <div class="box_area_txt_area">
-                        <a href="http://www.delicious.com/sovainfotech" target="_blank"><img src="<?=base_url()?>media/images/1297261508_delicious-large_blue.png" alt="Delicious" title="Delicious" border="0" style="position:relative; left:12px;"/></a>
+                        <a href="http://www.delicious.com/sovainfotech" target="_blank"><img src="<?=base_url()?>media/images/1297261508_delicious-large_blue.png" alt="Delicious" title="Delicious" border="0" style="position:relative; left:12px; margin:5px 0px 5px 0px;"/></a>
                     </div>
                     <div class="box_area_buttom"></div>
                 </div>
                 <div class="box_area">
-                    <div style="margin-left:8px; margin-top:20px;"><img src="<?=base_url()?>media/images/valid-html40-blue.png" border="0"/> <img src="<?=base_url()?>media/images/valid-xhtml10-blue.png" border="0"/></div>
+                	<div class="box_area_header">Others</div>
+                    <div class="box_area_txt_area">
+                        <div style="margin-left:1px; margin-top:20px;"><img src="<?=base_url()?>media/images/valid-html40-blue.png" border="0"/> <img src="<?=base_url()?>media/images/valid-xhtml10-blue.png" border="0"/></div>
+                    	<div style="margin-left:50px; margin-top:20px;"><A HREF="http://www.copyscape.com/online-plagiarism/"><IMG SRC="<?=base_url()?>media/images/copyscape_seal.gif" ALT="Protected by Copyscape Online Plagiarism Check" TITLE="Protected by Copyscape Plagiarism Checker - Do not copy content from this page." WIDTH="88" HEIGHT="31" BORDER="0"></A></div>
+                    </div>
+                    <div class="box_area_buttom"></div>
                 </div>
-                <div class="box_area">
-                    <div style="margin-left:50px; margin-top:20px;"><A HREF="http://www.copyscape.com/online-plagiarism/"><IMG SRC="<?=base_url()?>media/images/copyscape_seal.gif" ALT="Protected by Copyscape Online Plagiarism Check" TITLE="Protected by Copyscape Plagiarism Checker - Do not copy content from this page." WIDTH="88" HEIGHT="31" BORDER="0"></A></div>
-                </div>
-               <!-- <div class="box_area">
-                    <div style="margin-left:20px; margin-top:10px;"><a href="#"><img src="<?=base_url()?>media/images/1297260104_linkedin-logo.png" width="150" alt="Linkedin" title="LinkedIn" border="0"/></a></div>
-                </div>
-                <div class="box_area">
-                    <div style="margin-left:10px; margin-top:20px;"><a href="http://www.facebook.com/pages/Sova-Infotech/177758612265902?v=wall"><img src="<?=base_url()?>media/images/1296799290_facebook-large_blue.png" alt="Facebook" title="Facebook" border="0"/></a></div>
-                </div>
-                <div class="box_area">
-                    <div style="margin-left:10px; margin-top:20px;"><a href="#"><img src="<?=base_url()?>media/images/1297261508_delicious-large_blue.png" alt="Delicious" title="Delicious" border="0"/></a></div>
-                </div>-->
             </div>
             <!--End Body Right Part-->
          </div>
