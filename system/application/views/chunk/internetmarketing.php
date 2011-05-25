@@ -5,7 +5,7 @@
 <p>The online market is now burgeoning worldwide like never before. World has come to the verge of an online revolution. Thus, online presence and website promotion has become a prerequisite for a business to enhance its sales. More and more businesses – large, medium, small and start-ups – are realising the importance of their online presence. Hence, they are now not only developing and designing attractive and professional websites for their businesses but also insisting on an enhanced online presence for establishing their brand and increasing their ROI. Internet marketing can be done through various channels such as search engine optimisation (SEO), paid placements, PPC campaign, social media optimisation, email marketing, affiliate marketing, search engine marketing (SEM) and many more.</p><br />
 <h2>What Internet Marketing Services Do Sova Infotech Provide?</h2><br />
 <h4>The internet marketing services provided by Sova Infotech include:</h4>
-<ul class="ecommerce-services">
+<ul style="margin-left:50px;">
   <li>Search Engine Marketing (SEM) &nbsp;&nbsp;</li>
   <li>Search Engine Optimisation  (SEO)</li>
   <li>PPC Campaign</li>
@@ -16,7 +16,7 @@
 </ul>
 <h2>Sova Infotech Is The Best Internet Marketing Company – Why?</h2><br />
 <h4>Sova Infotech is a full scale internet marketing company of India that is crafted to:</h4>
-<ul class="ecommerce-services">
+<ul style="margin-left:50px;">
   <li>Increase online exposure</li>
   <li>Improve conversion rate</li>
   <li>Help businesses of all sizes  and shapes to increase their revenues as well as profits</li>

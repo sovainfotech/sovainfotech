@@ -25,9 +25,9 @@ span{
         <td valign="top"><div><b style="font-size:14px;">Sova Infotech Limited</b></div>
         <div>Suite 508<br />
           1 Alie Street<br />
-          London<br />
-          E1 8DE</div>
-        <div><img src="<?=base_url()?>media/images/tele.png" id="absolute" border="0"/><span><b>T:</b> +44(0) 20 7702 2700</span></div><div><img src="<?=base_url()?>media/images/fax.png" id="absolute" border="0"/><span><b>F:</b> +44 (0) 20 7702 4125</span></div><div><img src="<?=base_url()?>media/images/newemail.png" id="absolute" border="0"/><span><b>E:</b> info@sovainfotech.com</span></div></td>
+          London E1 8DE<br />
+          UNITED KINGDOM</div>
+        <div><img src="<?=base_url()?>media/images/tele.png" id="absolute" border="0"/><span><b>T:</b> +020 7096 1019</span></div><div><img src="<?=base_url()?>media/images/fax.png" id="absolute" border="0"/><span><b>F:</b> +44 (0) 20 7702 4125</span></div><div><img src="<?=base_url()?>media/images/newemail.png" id="absolute" border="0"/><span><b>E:</b> info@sovainfotech.com</span></div></td>
       </tr>
     </table>
     </div>
@@ -38,7 +38,8 @@ span{
         <td valign="top"><div><b style="font-size:14px;">Sova Infotech pvt Ltd</b></div>
         <div>Anuj Complex<br />
           HI/16 S. L. Sarani<br />
-          Kolkata 700 059</div>
+          Kolkata-59<br />
+		  INDIA</div>
         <div><img src="<?=base_url()?>media/images/tele.png" id="absolute" border="0"/><span><b>T:</b> +91 (0) 33 2570 2393</span></div><div><img src="<?=base_url()?>media/images/fax.png" id="absolute" border="0"/><span><b>F:</b> +91 (0) 33 2570 2632</span></div><div><img src="<?=base_url()?>media/images/newemail.png" id="absolute" border="0"/><span><b>E:</b> india@sovainfotech.com</span></div></td>
       </tr>
     </table>

@@ -104,7 +104,7 @@
                 <!--Contacts-->
                 <div class="contact_nos" style="width:190px;">
                 	<div class="phone" style="background:url(<?=base_url()?>media/images/uk.png) left no-repeat; padding-left:40px; clear:both; margin-bottom:10px; float:left;">
-                        <div>020 7702 2700</div>
+                        <div>020 7096 1019</div>
                         <div class="email"> <a href="mailto:info@sovainfotech.com">info@sovainfotech.com</a></div>
                     </div>
                     <div class="phone" style="background:url(<?=base_url()?>media/images/india.png) left no-repeat; padding-left:40px; float:left;">

@@ -60,10 +60,14 @@ $(function() {
   <tr class="get_a_quote_header">
     <td colspan="3">Project Details</td>
     </tr>
-  
   <tr valign="top">
-    <td>Details of project</td>
+    <td>Template Code</td>
     <td>:</td>
+    <td><input type="text" name="data[template_code]" value="<?=$this->uri->segment(3)?>" id="template_code"></td>
+  </tr>
+  <tr>
+    <td valign="top">Details of project</td>
+    <td valign="top">:</td>
     <td><textarea type="textarea" name="data[project_details]" id="project_details" cols="45" rows="5"></textarea></td>
   </tr>
   <tr>
