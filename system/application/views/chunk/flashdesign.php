@@ -1,6 +1,5 @@
 <h1>Flash &amp; Multimedia</h1>
-<h3>Communicate Visually With Your Flash &amp; Multimedia Design</h3>
-<br />
+<h3>Sova Infotech - Dynamic IT Solutions</h3><br />
 <h2>Flash Web Designing, Animation &amp; Multimedia Services &ndash; Effective Visual Communication</h2>
 <p>Flash based web designing and animation can accentuate your website's communication infinitely. In fact, it has been observed that audio-visual effects can communicate your company's message in a more effective manner. A properly crafted flash animation, flash presentation and multimedia design within the content of your website will surely expand its audio-visual effect and will consequently help you to establish your company's brand and ideas in a stronger way.</p>
 <br />

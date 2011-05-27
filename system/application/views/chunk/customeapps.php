@@ -1,6 +1,5 @@
 <h1>Custom Application Development</h1>
-<h3>Get Your Customised Apps Today!</h3>
-<br />
+<h3>Sova Infotech - Dynamic IT Solutions</h3><br />
 <h2>Custom Application (App) Development Solutions of Sova Infotech</h2>
 <p>Custom application development and maintenance solutions of Sova Infotech will help you to get the best quality of application at affordable cost. This will ultimately empower you to lower the total cost of ownership of the application. Our experienced, skilled and knowledgeable custom application web development engineers use latest technologies to offer robust solution to you so that your competitive edge, revenue and ultimately quality of customer relationship management increase.</p>
 <br />

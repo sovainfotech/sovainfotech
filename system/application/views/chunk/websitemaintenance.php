@@ -1,6 +1,5 @@
 <h1>Website maintenance</h1>
-<h3>Website Maintenance Services – We Are There For You 24x7</h3>
-<br>
+<h3>Sova Infotech - Dynamic IT Solutions</h3><br />
 <h2>Website Maintenance Services, Online Presence of Your Company &amp; Sova Infotech</h2>
 <br>
 <img src="<?=base_url()?>media/images/website-maintanance.jpg" alt="website maintanance" title="website maintanance">

@@ -1,5 +1,5 @@
 <h1>Career</h1>
-<h3>Sova Infotech - Passion, Creativity, Professionalism & Success</h3><br />
+<h3>Sova Infotech - Dynamic IT Solutions</h3><br />
 <div style="border-top:dotted #CCCCCC 1px; height:10px;"></div>
 <h2>Java</h2><br />
 <div style="border-top:dotted #CCCCCC 1px; height:10px;"></div>

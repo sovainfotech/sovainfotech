@@ -1,4 +1,3 @@
 <h1>Our Blogs</h1>
-<h3>Internet and Development Strategies</h3>
-<br>
+<h3>Sova Infotech - Dynamic IT Solutions</h3><br />
 <p>Under Development</p>

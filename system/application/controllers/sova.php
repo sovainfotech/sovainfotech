@@ -60,6 +60,31 @@ class Sova extends Controller {
 		$this->load->view('layout/welcome',$templatevar);
 	}
 	function contactus(){
+		$this->load->library('email');
+		$config['mailtype'] = 'html';
+		$this->email->initialize($config);
+		if($_POST['data']){
+			foreach($_POST['data'] as $key=>$value){
+				$val .= $key.': '.$value.'<br/>';
+			}
+			$var['msg'] = 'Our responsible person will contact to you as soon as possible.';
+			$this->email->from('washim@sovainfotech.com', 'Tech Support@Sova Infotech - Contact Now');
+			$this->email->to('info@sovainfotech.com');
+			$this->email->cc('sandip@sovainfotech.com,washim@sovainfotech.com,ramen@sovainfotech.com'); 
+			$this->email->subject('Client need to contact with us for new services');
+			$body = '<p>Hello Member,<br>
+					  &nbsp;&nbsp;&nbsp;I would like to inform you that following client want to contact with us. Please contact with this person as soon as possible. Following requirements clients appreciated...<br>
+					  --------------------------------------------------------------------------------------------------------------------------<br>
+					  '.$val.'
+					  --------------------------------------------------------------------------------------------------------------------------</p>
+					<p>Thanks and Regards,<br>
+					Washim Ahmed<br>
+					Tech Support Sova Infotech<br>
+					washim@sovainfotech.com</p>
+					';
+			$this->email->message($body);
+			$this->email->send();
+		}
 		$templatevar['metatitle'] = 'Contact Us | Sova Infotech';
 		$templatevar['metakeywords'] = 'content, website content development, content development, website content, website content developer, website content writer, website content development India, sova infotech';
 		$templatevar['metadescription'] = 'Sova Infotech offers website content development service for your website in affordable cost by our expert content developer team. Visit Sova Infotech to avail the best Website Content Development package.';

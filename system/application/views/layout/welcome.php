@@ -22,10 +22,16 @@
   <script type="text/javascript" src="<?=base_url()?>media/js/jquery.paginate.js"></script>
   <script type="text/javascript" src="<?=base_url()?>media/js/formvalidation/jquery.validationEngine.js"></script>
   <script type="text/javascript" src="<?=base_url()?>media/js/formvalidation/jquery.validationEngine-en.js"></script>
+  <script type="text/javascript" src="<?=base_url()?>media/js/cufon-yui.js"></script>
+  <script type="text/javascript" src="<?=base_url()?>media/js/Museo_Slab_500_400.font.js"></script>
   <script type="text/javascript">
 	$(document).ready(function() {
 		$('#coin-slider').coinslider({ width: 561, height: 203, navigation: true, delay: 2000, effect:'rain', links : false, hoverPause: false, spw: 7, sph: 5, opacity: 0.7, titleSpeed: 500, sDelay: 50 });
 		$(".formular").validationEngine();
+		Cufon.replace('h1');
+		Cufon.replace('h2');
+		Cufon.replace('h3');
+		Cufon.replace('strong');
 		$('a[rel*=webtemplate]').lightBox({
 			imageLoading:'<?=base_url()?>media/images/lightbox-loading.gif',
 			imageBtnClose:'<?=base_url()?>media/images/lightbox-btn-close.gif',
@@ -125,15 +131,15 @@
                 <li class="border"></li>
                 <li><a href="<?=site_url('sova/services')?>"<?=$this->uri->segment(2)=='services' ? ' class="active"' : ''?>>&nbsp;&nbsp;Services&nbsp;&nbsp;</a></li>
                 <li class="border"></li>
-                <li><a href="<?=site_url('sova/web2basedwebdesign')?>"<?=$this->uri->segment(2)=='web2basedwebdesign' ? ' class="active"' : ''?>>Web Designing</a></li>
+                <li><a href="<?=site_url('sova/webdesign')?>"<?=$this->uri->segment(2)=='webdesign' ? ' class="active"' : ''?>>Web Designing</a></li>
                  <li class="border"></li>
                 <li><a href="<?=site_url('sova/softdevelopment')?>"<?=$this->uri->segment(2)=='softdevelopment' ? ' class="active"' : ''?>>Software Development</a></li>
                 <li class="border"></li>
                 <li><a href="<?=site_url('sova/internetmarketing')?>"<?=$this->uri->segment(2)=='internetmarketing' ? ' class="active"' : ''?>>&nbsp;&nbsp;&nbsp;&nbsp;SEO&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
                 <li class="border"></li>
-                <li><a href="<?=site_url('sova/templatestock')?>"<?=$this->uri->segment(2)=='templatestock' ? ' class="active"' : ''?>>Our Template Stock</a></li>
+                <li><a href="<?=site_url('sova/templatestock')?>"<?=$this->uri->segment(2)=='templatestock' ? ' class="active"' : ''?>>&nbsp;&nbsp;Online Template&nbsp;&nbsp;</a></li>
                 <li class="border"></li>
-                <li><a href="<?=site_url('sova/portfolio')?>"<?=$this->uri->segment(2)=='portfolio' ? ' class="active"' : ''?>>Portfolio</a></li>
+                <li><a href="<?=site_url('sova/portfolio')?>"<?=$this->uri->segment(2)=='portfolio' ? ' class="active"' : ''?>>&nbsp;&nbsp;Portfolio&nbsp;</a></li>
                 <li class="border"></li>
                 <li><a href="<?=site_url('sova/quote')?>"<?=$this->uri->segment(2)=='quote' ? ' class="active"' : ''?>>&nbsp;&nbsp;&nbsp;&nbsp;Free Quote&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
                 <li class="border"></li>
@@ -182,7 +188,7 @@
                             <li class="dotted-border-blue"></li>
                             <li class="background-none" style="background:url(<?=base_url()?>media/images/web-development-icon.png) left no-repeat;  padding-left:34px; padding-bottom:13px;"><h2>Internet Marketing</h2></li>
                             <li class="dotted-border-blue"></li>
-                            <li><a href="<?=site_url('sova/internetmarketing')?>">Search Engine Optimization [SEO]</a></li>
+                            <li><a href="<?=site_url('sova/internetmarketing')?>">SEO</a></li>
                             <li class="dotted-border-blue"></li>
                             <li class="background-none" style="background:url(<?=base_url()?>media/images/web-design-icon.png) left no-repeat;  padding-left:34px; padding-bottom:13px;"><h2>Print & Graphics</h2></li>
                             <li class="dotted-border-blue"></li>
@@ -210,7 +216,7 @@
             <!--Body Middle Part-->
             <div class="mid">
 					<div class="mid-mid">
-                	<?php if($this->uri->segment(2) <> 'templatestock' && $this->uri->segment(2) <> 'quote'):?>
+					<?php if($this->uri->segment(2) == ''):?>
                     <!--Slider-->
                     <div id='coin-slider'>
                         <img src='<?=base_url()?>media/pictures/1.jpg' alt=""/>
@@ -264,7 +270,7 @@
                 <div class="box_area">
                     <div class="box_area_header">Follow us in Twitter</div>
                     <div class="box_area_txt_area">
-                        <a href="http://twitter.com/sovainfotech" target="_blank"><img src="<?=base_url()?>media/images/twitter.png" alt="Twitter" title="Twitter" border="0" style="margin:10px 0px 10px 7px;"/></a>
+                        <a href="http://twitter.com/#!/sovainfotechUK" target="_blank"><img src="<?=base_url()?>media/images/twitter.png" alt="Twitter" title="Twitter" border="0" style="margin:10px 0px 10px 7px;"/></a>
                     </div>
                     <div class="box_area_buttom"></div>
                 </div>

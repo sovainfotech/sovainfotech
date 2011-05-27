@@ -1,13 +1,12 @@
 <h1>About Us</h1>
-<h3>Sova Infotech - Passion, Creativity, Professionalism &amp; Success</h3>
-<br />
+<h3>Sova Infotech - Dynamic IT Solutions</h3><br />
 <p>Sova Infotech is an innovative and professional company that provides end-to-end service on website development, web design and internet marketing. It is a one-stop solution for web-based requirements of businesses. We cater to all verticals and size of businesses. Sova Infotech has inculcated an organisational culture that is driven by passion, professionalism and service customisation.</p>
 <br />
 <p>Sova Infotech provides the very best and creative solutions in search engine friendly website development, design, online marketing, branding and reputation management. We cater to small, medium and large organisations with our best, creative and customised solutions on all possible verticals at most competitive price.</p>
 <br />
 <h2>Sova Infotech Services &ndash; A Snapshot</h2>
 <br />
-<h4>The comprehensive list of services of Sova Infotech includes:</h4>
+<strong>The comprehensive list of services of Sova Infotech includes:</strong>
 <br />
 <div class="aboutus-services">
   <ul class="aboutus-services">

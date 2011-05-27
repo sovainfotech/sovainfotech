@@ -1,5 +1,5 @@
 <h1>Content Development</h1>
-<h3>Express Yourself With Compelling Content</h3><br />
+<h3>Sova Infotech - Dynamic IT Solutions</h3><br />
 <h2>Web Content Development – Customised, Compelling And Engaging</h2><br />
 <p>Web Content development is not only about writing a piece of article. It involves researching, writing & editing compelling and engaging copy. The real purpose of web content development is to engage the viewer in communicating your message in an engaging and interesting way. 
 Every project has its own requirements and a content developer is required to understand the specific needs of the clients and develop the copy accordingly. Various types of content are required, such as Website content development, SEO content writing, Business-To-Business (B2B) copywriting, E-newsletter writing, Ghost writing, Marketing content development, Blogs, Articles, Press releases and many more. Thus, a content writer should be adept with the knowledge, experience and enough creativity in developing all sorts of B2C and B2B writing.</p>

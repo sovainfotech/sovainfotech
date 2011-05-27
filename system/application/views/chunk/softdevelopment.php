@@ -1,5 +1,8 @@
+<style>
+ol li{margin-bottom:15px;}
+</style>
 <h1>Software Development</h1>
-<h3>The software development  services provided by Sova Infotech</h3><br />
+<h3>Sova Infotech - Dynamic IT Solutions</h3><br />
 <div style="padding:5px; text-align:justify;">
 <table width="100%" border="0">
   <tr>

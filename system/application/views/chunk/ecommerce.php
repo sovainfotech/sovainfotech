@@ -1,6 +1,5 @@
 <h1>Ecommerce</h1>
-<h3>Leap Frog Your Sales Via Our Ecommerce Solutions</h3>
-<br>
+<h3>Sova Infotech - Dynamic IT Solutions</h3><br />
 <h2>Ecommerce – What Is It?</h2>
 <p>Electronic Communication or E-commerce refers to any kind of commercial/business transaction that involves information transfer through the help of internet. It includes a wide array of businesses, right from consumer based retail sites (music websites, auction sites and many more) to business-to-business transaction of goods and services. </p>
 <p>Ecommerce constitutes buying and selling of products, services and information through computer networks and one of its key elements involve proper processing of information. It is the latest business methodology that addresses the requirements of the organisations, merchants and consumers to curtail costs while improving the service and service-delivery speed.</p>

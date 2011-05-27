@@ -1,6 +1,5 @@
 <h1>Blog Design</h1>
-<h3>Get Noticed - Unique Blog Design from Sova Infotech</h3>
-<br />
+<h3>Sova Infotech - Dynamic IT Solutions</h3><br />
 <h2>Blog Design Services from Sova Infotech &ndash; Customised, Unique &amp; Innovative</h2>
 <p>Blog design is a very important aspect as it is not an easy task to get noticed in the huge crowd of Blogs. There are millions of blogs out there in the cyberspace and thousands are been created on a daily basis. Is it easy to carve your niche to your target audience in this huge population of blogs in the cyberspace? So, what you need to attract your customers to get notice of you is the unique and innovative website blog design in accordance with the special needs of the project. Sova Infotech has enough experience, skills and prowess to deliver you with project-specific and custom blog design to make you stand apart from the rest and consequently get noticed.</p>
 <br />

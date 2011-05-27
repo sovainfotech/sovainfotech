@@ -567,3 +567,5 @@ padding:5px;
 display:none;
 color:#fff;
 }
+#breadcrumb{ border:1px #CCCCCC solid; padding:5px; margin-bottom:10px; -moz-border-radius:4px;	-webkit-border-radius:4px;	-khtml-border-radius:4px;}
+.cufon-active strong{font-size:15px; color:#333333;}

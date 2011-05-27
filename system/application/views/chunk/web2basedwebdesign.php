@@ -8,7 +8,7 @@ $(function() {
 });
 </script>
 <h1>Web 2.0 based designing</h1>
-<h3>Web 2.0 Based Designing – Communicate With Your Design</h3><br />
+<h3>Sova Infotech - Dynamic IT Solutions</h3><br />
 <div>
 <table width="100%" border="0">
   <tr>

@@ -8,7 +8,7 @@ $(function() {
 });
 </script>
 <h1>SharePoint 2010 Development</h1>
-<h3>Share, Grow and Excel with SharePoint Server 2010</h3><br />
+<h3>Sova Infotech - Dynamic IT Solutions</h3><br />
 <div style="border-top:2px solid #ffda82; border-bottom:2px solid #ffda82; font-family:tahoma; padding:5px;">
 <table width="100%" border="0">
   <tr>

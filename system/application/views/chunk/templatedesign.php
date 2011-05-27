@@ -1,6 +1,5 @@
 <h1>Template Designs</h1>
-<h3>Colour Your World With Unique Template Designs</h3>
-<br />
+<h3>Sova Infotech - Dynamic IT Solutions</h3><br />
 <h2>Template Designs, Website Layouts &amp; SovaInfotech</h2>
 <br />
 <h4>Template designs are of different types and are used for presenting some information over the internet. Different kinds of web design template include:</h4>

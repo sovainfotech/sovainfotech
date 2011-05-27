@@ -8,7 +8,7 @@ $(function() {
 });
 </script>
 <h1>PHP & Mysql Development</h1>
-<h3>A Journey to the Center of The OpenSource Development</h3><br />
+<h3>Sova Infotech - Dynamic IT Solutions</h3><br />
 <div style="border-top:2px solid #ffda82; border-bottom:2px solid #ffda82; font-family:tahoma; padding:5px;">
 <table width="100%" border="0">
   <tr>

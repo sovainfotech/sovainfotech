@@ -35,7 +35,7 @@ $(function() {
 #tabs table td{text-align:justify;}
 </style>
 <h1>Portfolio</h1>
-<h3>Sova Infotech - Passion, Creativity, Professionalism & Success</h3><br />
+<h3>Sova Infotech - Dynamic IT Solutions</h3><br />
 <div id="portfolio">
     <div id="tabs">
         <ul>
